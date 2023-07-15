@@ -11,5 +11,4 @@ Este projeto foi parcialmente desenvolvido em aula no Curso de programação da 
 Além disso, gostaria de mencionar as seguintes contribuições e melhorias que fiz posteriormente:
 
 - Refatorei o código para melhorar a legibilidade e organização.
-- Adicionei recursos adicionais, como exibir número de commits e skills.
-- Aperfeiçoei a interface do usuário e a experiência do usuário com um desing atrativo.
+- (Demais melhoras em breve, Projeto em andamento)
