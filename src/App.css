@@ -1,3 +1,104 @@
 .App {
-  text-align: center;
+  background: linear-gradient(to bottom, var(--color1), var(--color2));
+}
+.imgLogo{
+  padding-bottom: 50px;
+  width: 250px;
+}
+.homeScreen{
+  width: 100vw;
+  height: 100vh;
+}
+.formSearch, .homeScreen {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.searchProfile {
+  width: 500px;
+  height: 50px;
+  margin: 5px;
+  font-size: x-large;
+  font-weight: bold;
+  color: #757575;
+  border-radius: 50px;
+  border: 1px solid #acacac;
+  padding-left: 10px;
+  padding-right: 10px;
+
+}
+.searchProfile:focus{
+  border-color: #acacac;
+  outline: none;
+}
+.buttonSearch {
+  margin: 5px;
+  width: 520px;
+  height: 50px;
+  border-radius: 25px;
+  border: 1px solid #acacac;
+  font-size: x-large;
+  font-weight: bold;
+  color: #757575;
+}
+.buttonSearch:hover {
+  background-color: #acacac;
+  transition: background-color 0.5s;
+  cursor: pointer;
+}
+.container {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.container-result {
+  display: flex;
+  height: 100%;
+  align-items: center;
+  justify-content: center;
+}
+.buttonBack {
+  margin-top: 50px;
+  width: 200px;
+  height: 50px;
+  border-radius: 25px;
+  border: 1px solid #acacac;
+  font-size: x-large;
+  font-weight: bold;
+  color: #757575;
+}
+.buttonBack:hover {
+  background-color: #acacac;
+  transition: background-color 0.5s;
+  cursor: pointer;
+}
+.nameProfile {
+  margin-left: 50px;
+  background-color: #fff;
+  border-radius: 30px;
+  width: 500px;
+}
+.profile-animation{
+  padding-left: 20px;
+  max-height: 50px;
+  font-size: xx-large;
+  font-weight: bolder;
+  color: #757575;
+  overflow: hidden;
+  animation: typing 2s steps(30);
+}
+@keyframes typing {
+  from {
+    width: 0;
+  }
+  to {
+    width: 100%;
+  }
+}
+.imageProfile {
+  width: 500px;
+  border-radius: 100%;
 }

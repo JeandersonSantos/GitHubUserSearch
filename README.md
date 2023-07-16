@@ -5,10 +5,12 @@ Git Hub User Search é um aplicativo que permite aos usuários buscar e visualiz
 - Node.js  16.15.0
 - Yarn start 1.22.19
 
-## Crédito
-Este projeto foi parcialmente desenvolvido em aula no Curso de programação da [Infinity Solution](https://infinitysolutionsapp.com/).
+## Créditos
+Este projeto foi parcialmente desenvolvido em aula no Curso de programação da [Infinity Solutions](https://infinitysolutionsapp.com/).
 
-Além disso, gostaria de mencionar as seguintes contribuições e melhorias que fiz posteriormente:
+Além disso, gostaria de mencionar as seguintes contribuições e melhorias que eu [Jeanderson](https://github.com/JeandersonSantos) fiz posteriormente:
 
 - Refatorei o código para melhorar a legibilidade e organização.
-- (Demais melhoras em breve, Projeto em andamento)
+- melhorei o layout, utilizando css, usei o flex para poder estruturar a página
+- Adicionei um background randômico
+- Ocultei o formulário quando a requisição é bem sucedida
