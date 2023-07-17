@@ -11,6 +11,6 @@ Este projeto foi parcialmente desenvolvido em aula no Curso de programação da 
 Além disso, gostaria de mencionar as seguintes contribuições e melhorias que eu [Jeanderson](https://github.com/JeandersonSantos) fiz posteriormente:
 
 - Refatorei o código para melhorar a legibilidade e organização.
-- melhorei o layout, utilizando css, usei o flex para poder estruturar a página
-- Adicionei um background randômico
-- Ocultei o formulário quando a requisição é bem sucedida
+- melhorei o layout, utilizando css, usei o flex para poder.estruturar a página.
+- Adicionei um background randômico.
+- Ocultei o formulário quando a requisição é bem sucedida.
